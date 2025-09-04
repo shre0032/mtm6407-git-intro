@@ -1,1 +1,1 @@
-This is just an about section.
+ok this is the changed about.txt
